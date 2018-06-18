@@ -1,5 +1,6 @@
 # Project 2: CARP Solver
 
+```
 .
 ├── CARP_format.txt     | The format of input values
 ├── CARP_intro.pdf      | CARP problem introduction
@@ -16,3 +17,4 @@
 ├── README.md           | README file
 ├── Report.pdf          | Project report
 └── carp_solver.py      | Project code
+```

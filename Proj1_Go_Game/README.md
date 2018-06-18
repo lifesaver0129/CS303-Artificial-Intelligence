@@ -1,4 +1,5 @@
-# Project 1: Go Game
+# Projecst 1: Go Game
+
 ```
 .
 ├── Instruction.pdf     | Go project instruction
