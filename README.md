@@ -1,6 +1,6 @@
 # CS303 Artificial Intelligence
 
-Personal solution for SUSTech cource CS303 artificial intelligence.
+Personal repo for SUSTech cource CS303 artificial intelligence.
 
 Four projects included:
 
